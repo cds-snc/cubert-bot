@@ -3,7 +3,7 @@ Cubert is a slack bot that can store and remember organiational knowledge.
 
 Cubert can record:
   - What you know (I know Python)
-  - What another user knows (@Sylvia.mclaughlin knows Python)
+  - What another user knows (@slack_user knows Python)
 
 Cubert can inform:
   - What everyone knows (what do people know gives listing of all knowledge areas)
@@ -29,7 +29,7 @@ A keynote presentation on how to create a new Slack app can be found [here](http
 
 Clone the repository
 ```
-https://github.com/sylviamclaughlin/cubert.git
+https://github.com/cds-snc/cubert-bot.git
 ```
 Create a virtual environment
 ```
